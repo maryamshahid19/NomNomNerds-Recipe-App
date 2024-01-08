@@ -1,0 +1,253 @@
+Ing_ID,Ingredients_name
+1,Onion
+2,Chicken
+3,Yogurt
+4,Red Chilli Powder
+5,Ginger Garlic paste
+6,Black Pepper Powder
+7,Garam Masala Powder
+8,Cinnamon Stick
+9,Cardamon
+10,Salt
+11,Lemon Juice
+12,Coriander Powder
+13,Olive Oil
+14,Basmati Rice
+15,All-Purpose Flour
+16,Oil
+17,Ajwain
+18,Green Peas
+19,Paneer
+20,Dry Mango Powder
+21,Tumeric Powder
+22,Pepper
+23,Tomato Puree
+24,Cashew Nuts
+25,Curd
+26,Cloves
+27,Mace
+28,Cardamom
+29,Cumin Seeds
+30,Kasuri Methi
+31,Sugar
+32,Coriander Leaves
+33,Fresh Cream
+34,Methi Seeds
+35,Coconut 
+36,Green Chillies
+37,Mustard Seeds
+38,Asafoetide
+39,Dry Red Chillies
+40,Curry Leaves
+41,Broken Wheat
+42,Virgin Olive Oil
+43,Cranberries
+44,Black Peppercorns
+45,Pistachios
+46,Mint Leaves
+47,Whole Wheat Flour
+48,Milk Powder
+49,Potato
+50,Honey
+51,Active Dry Yeast
+52,Lukewarm Water
+53,Sesame Seeds
+54,Walnuts
+55,Fennel Leaves
+56,Cheddar Cheese
+57,Garlic 
+58,Lemon Zest
+59,Rice Noodles
+60,Broccoli
+61,Carrot
+62,Bok Choy
+63,Lemongrass
+64,Soy Sauce
+65,Red Chilli Sauce
+66,Spring Onion
+67,Amaranth Leaves
+68,Shallots
+69,Red Chillies
+70,White Urad Dal
+71,Mandi
+72,Cocunut Milk
+73,Sesame Oil
+74,Yellow Moong Dal
+75,Cumin Powder
+76,Turmeric Powder
+77,Ghee
+78,Chicken Breast
+79,Button Mushrooms
+80,Dried Thyme Leaves
+81,Red Chilli Flakes
+82,Milk
+83,Corn Flour
+84,Unsalted Butter
+85,Fettuccine Paste
+86,Heavy Cream
+87,Parmesan Cheese
+88,Black Pepper
+89,Parsley
+90,Chana Dal
+91,Dry Red Chilli
+92,Fennel Seeds
+93,Black Pepper Corns
+94,Bay Leaf
+95,Mango
+96,Asafoetida
+97,Jaggery
+98,Coconut Oil
+99,Boneless Chicken
+100,Tandoori Mayo
+101,Tortillas
+102,Water
+103,Cardamom Seeds
+104,Star Anise
+105,Sultana Raisins
+106,Cabbage
+107,Scallions
+108,Ginger
+109,Mushrooms
+110,Chestnuts
+111,Rice Vinegar
+112,Chilli Flakes
+113,Beef
+114,Tomato
+115,Coriander
+116,Ginger Paste
+117,Garlic Paste
+118,Cumin
+119,Egg
+120,Cooking Oil
+121,Brinjal
+122,Green Bell Pepper
+123,Garlic
+124,Red Chiili Powder
+125,Red Radish
+126,Mooli
+127,Cucumber
+128,Dill Leaves
+129,Chives
+130,Sea Salt
+131,Karela
+132,Coconut
+133,Coriander Seeds
+134,Tamarind Water
+135,Whole Black Peppercorns
+136,Coconut Milk
+137,Lime Leaves
+138,Green Onion
+139,Celery
+140,Chicken Breasts
+141,Bean Sprouts
+142,Lemon wedges
+143,Beans
+144,Peas
+145,Multigrain Digestive Biscuits
+146,Greek Yogurt
+147,Chia Seeds
+148,Fruits
+149,Poppy Seeds
+150,Black Cardamon
+151,Kala Chana
+152,Cream
+153,Chicken Thighs
+154,Cornstarch
+155,Vegetable Oil
+156,Hoisin Sauce
+157,Chicken Broth
+158,All Purpose Flour (Maida)
+159,Extra Virgin Olive Oil
+160,Spinach Leaves (Palak)
+161,Sweet Corn
+162,Mixed Herbs (Dried)
+163,Britannia Cheese Block
+164,Tinda (Apple Gourd)
+165,Tomatoes
+166,Cumin Seeds (Jeera)
+167,Coriander (Dhania) Leaves
+168,Green Chilli
+169,Lamb Trotters
+170,Turmeric Powder (Haldi)
+171,Coriander Powder (Dhania)
+172,Rice Flour
+173,Cinnamon Stick (Dalchini)
+174,Cloves (Laung)
+175,Pumpkin Puree
+176,Kabuli Chana (White Chickpeas)
+177,Tahini
+178,Lemons
+179,Cumin Powder (Jeera)
+180,Chilled Water
+181,Potatoes (Aloo)
+182,Paneer (Homemade Cottage Cheese)
+183,Homemade Basil Pesto
+184,Egg White
+185,Archana's Kitchen Rich Vanilla Cake Mix
+186,Curd (Dahi / Yogurt)
+187,Cinnamon Powder (Dalchini)
+188,Carrot (Gajjar)
+189,Whole Almonds (Badam)
+190,Britannia Cream Cheese
+191,Caster Sugar
+192,Ajwain (Carom Seeds)
+193,Fennel Seeds (Saunf)
+194,Cardamom (Elaichi) Pods/Seeds
+195,Clove Powder (Laung)
+196,Onions
+197,Bay Leaves (Tej Patta)
+198,Prawns
+199,Lemon
+200,Mint Leaves (Pudina)
+201,Burger Buns
+202,Veeba Pasta Sauce
+203,Mozzarella Cheese
+204,Butter (Salted)
+205,Cherry Tomatoes
+206,Red Onion
+207,Green Olives
+208,Lettuce Leaves
+209,Tabasco Original - Hot Sauce
+210,Fresh Coconut
+211,Cardamom Powder (Elaichi)
+212,Nando's Peri Peri Chicken Marinade
+213,Fresh Red Chillies
+214,Gram Flour (Besan)
+215,Baking Soda
+216,Mustard Seeds (Rai/ Kadugu)
+217,Asafoetida (Hing)
+218,Dijon Mustard
+219,Mutton
+220,Kashmiri Red Chilli Powder
+221,All-Purpose Flour (Maida)
+222,Baking Powder
+223,Seeraga (Jeeraga) Samba Rice
+224,Coriander (Dhania) Powder
+225,Brown Rice
+226,Bay Leaf (Tej Patta)
+227,Green Beans (French Beans)
+228,Cauliflower (Gobi)
+229,Carrots (Gajjar)
+230,Brinjal (Baingan / Eggplant)
+231,Masoor Dal (Whole)
+232,"Red, Yellow, and Green Bell Peppers (Capsicum)"
+233,Homemade Tomato Puree
+234,Paprika Powder
+235,Apple Cider Vinegar
+236,Feta Cheese
+237,Parsley Leaves
+238,Slivered Almonds (Badam)
+239,Dried Oregano
+240,Rosemary
+241,Whole Wheat Brown Bread
+242,Whole Egg
+243,Fried Bread Cubes (Croutons)
+244,Fresh Pomegranate Fruit Kernels
+245,Black Cardamom (Badi Elaichi)
+246,Sriracha Sauce
+247,Tofu
+248,Rolled Oats or Instant Oats
+249,Archana's Kitchen Millet Noodles
+250,Red Bell Pepper (Capsicum)
+251,Yellow Bell Pepper (Capsicum)
+252,Green Bell Pepper (Capsicum)
