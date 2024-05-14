@@ -251,15 +251,15 @@ class _UploadRecipeScreenState extends State<UploadRecipeScreen> {
               ),
             ),
             SizedBox(
-              height: 30,
+              height: 20,
             ),
             SvgPicture.asset(
               'assets/images/tick.svg', // Replace with the actual path to your SVG file
-              height: 65, // Adjust the height as needed
+              height: 60, // Adjust the height as needed
               width: 65, // Adjust the width as needed
             ),
             SizedBox(
-              height: 30,
+              height: 20,
             ),
             Container(
               width: width,
@@ -273,12 +273,12 @@ class _UploadRecipeScreenState extends State<UploadRecipeScreen> {
                       borderRadius: BorderRadius.circular(5)),
                   primary: Colors.white, // Background color // Text color
                   padding:
-                      EdgeInsets.symmetric(horizontal: 20), // Adjust padding
+                      EdgeInsets.symmetric(horizontal: 10), // Adjust padding
                 ),
                 child: Text(
                   "Ok",
                   style: TextStyle(
-                    fontSize: 20,
+                    fontSize: 15,
                     color: Color.fromARGB(255, 251, 149, 106),
                   ),
                 ),

@@ -113,7 +113,7 @@ class FeaturedRecipeCard extends StatelessWidget {
         children: <Widget>[
           Container(
             width: size.width * 0.6,
-            height: (size.height * 0.38) * 0.65,
+            height: (size.height * 0.38) * 0.60,
             child: ClipRRect(
               borderRadius: BorderRadius.only(
                 topLeft: Radius.circular(10),
@@ -129,7 +129,7 @@ class FeaturedRecipeCard extends StatelessWidget {
             onTap: press,
             child: Container(
               width: size.width * 0.6,
-              height: ((size.height * 0.38) - (size.height * 0.38) * 0.65),
+              height: ((size.height * 0.38) - (size.height * 0.38) * 0.60),
               padding: EdgeInsets.all(nDefaultSize / 2),
               decoration: BoxDecoration(
                 color: Color.fromARGB(255, 251, 149, 106),

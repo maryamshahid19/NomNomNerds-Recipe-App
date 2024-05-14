@@ -234,7 +234,7 @@ class _LogInScreenState extends State<LogInScreen> {
               child: Container(
                 margin: EdgeInsets.only(top: size.height * 0.3),
                 width: size.width,
-                height: size.height * 0.5,
+                height: size.height * 0.46,
                 padding: EdgeInsets.all(16),
                 decoration: BoxDecoration(
                   color: Colors.white,

@@ -180,7 +180,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                 size.height * 0.05,
               ),
               width: size.width,
-              height: size.height * 0.55,
+              height: size.height * 0.5,
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.only(

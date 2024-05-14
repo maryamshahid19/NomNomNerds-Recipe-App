@@ -55,7 +55,7 @@ class Body extends StatelessWidget {
                     Text("$username",
                         style: TextStyle(
                             color: Colors.white, fontWeight: FontWeight.w400)),
-                    SizedBox(height: 20),
+                    SizedBox(height: 8),
                     Container(
                       width: size.width * 0.5,
                       child: Center(
@@ -151,7 +151,7 @@ class Body extends StatelessWidget {
                 size.height * 0.05,
               ),
               width: size.width,
-              height: size.height * 0.45,
+              height: size.height * 0.42,
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.only(
